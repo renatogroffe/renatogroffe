@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, sou o Renato Groffe 👋
+
+Microsoft Most Valuable Professional (MVP), Multi-Plataform Technical Audience Contributor (MTAC), Software Engineer, Technical Writer and Speaker
+
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinijmoura&show_icons=true&count_private=true&theme=algolia" />
+</p>
 
 <!--
 **renatogroffe/renatogroffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
