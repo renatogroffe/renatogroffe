@@ -3,7 +3,7 @@
 Microsoft Most Valuable Professional (MVP), Multi-Plataform Technical Audience Contributor (MTAC), Software Engineer, Technical Writer and Speaker
 
 <p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinijmoura&show_icons=true&count_private=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&show_icons=true&count_private=true&theme=algolia" />
 </p>
 
 <!--
