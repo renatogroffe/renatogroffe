@@ -7,7 +7,7 @@ Microsoft Most Valuable Professional (MVP), Multi-Plataform Technical Audience C
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinijmoura&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogroffe&layout=compact&theme=algolia" />
 </p>
 
 <!--
