@@ -5,6 +5,7 @@ Microsoft Most Valuable Professional (MVP), Multi-Plataform Technical Audience C
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogroffe&layout=compact&langs_count=6&theme=algolia"/>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/renatogroffe)](https://git.io/awesome-stats-card)
 </div>
 
 <!--
