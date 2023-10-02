@@ -2,8 +2,7 @@
 
 Microsoft Most Valuable Professional (MVP), Multi-Plataform Technical Audience Contributor (MTAC), Software Engineer, Technical Writer and Speaker
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&count_private=true&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&show_icons=true&theme=algolia&include_all_commits=true&include_all_stars&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogroffe&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
